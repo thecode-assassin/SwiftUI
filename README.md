@@ -36,3 +36,4 @@ Follow for more SwiftUI content:
 [Instagram](https://instagram.com/thecodeassassin)  
 [Threads](https://threads.net/@thecodeassassin)  
 [TikTok](https://tiktok.com/@thecodeassassin)
+[Twitter](https://tiktok.com/@codexassassin_)
