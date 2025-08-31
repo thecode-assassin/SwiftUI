@@ -32,8 +32,20 @@ Feel free to use, modify, or share these snippets. Attribution appreciated but n
 
 ## 🤝 Connect
 
-Follow for more SwiftUI content:  
-[Instagram](https://instagram.com/thecodeassassin)  
-[Threads](https://threads.net/@thecodeassassin)  
-[TikTok](https://tiktok.com/@thecodeassassin)  
-[Twitter](https://tiktok.com/@codexassassin_)
+Follow for more SwiftUI content:
+<p>
+  <a href="https://instagram.com/thecodeassassin">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://threads.net/@thecodeassassin">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads">
+  </a>
+  <a href="https://tiktok.com/@thecodeassassin">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+  </a>
+  <a href="https://twitter.com/codexassassin_">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
+  </a>
+</p>
+
+
