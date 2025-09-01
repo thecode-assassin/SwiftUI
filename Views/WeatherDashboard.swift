@@ -318,11 +318,3 @@ let forecastData = [
     WeatherForecast(day: "Thursday", icon: "cloud.fill", highTemp: 21, lowTemp: 15),
     WeatherForecast(day: "Friday", icon: "sun.max.fill", highTemp: 26, lowTemp: 19)
 ]
-
-import SwiftUI
-
-struct WeatherDashboard_Previews: PreviewProvider {
-    static var previews: some View {
-        WeatherDashboard()
-    }
-}

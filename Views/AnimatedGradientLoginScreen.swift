@@ -307,7 +307,3 @@ extension View {
         }
     }
 }
-
-#Preview {
-    AnimatedGradientLoginScreen()
-}
